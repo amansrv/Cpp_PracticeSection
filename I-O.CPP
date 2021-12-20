@@ -1,0 +1,12 @@
+// the input-output concept in cpp
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+int a;
+  cout<<"Enter the value of a "<<endl;
+  cin>>a;
+
+}
